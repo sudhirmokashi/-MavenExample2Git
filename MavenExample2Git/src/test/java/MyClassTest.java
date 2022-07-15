@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import com.lti.entity.MyClass;
-import com.sun.xml.internal.ws.policy.AssertionSet;
 
 class MyClassTest {
 	
